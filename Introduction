@@ -42,3 +42,9 @@ $ iotop (disk I/o)
 $ tcpdump -i eth0   (network packet analyser , )
 $ sudo    (root level permission)
 $ sudo tcpdump -i eth0
+
+
+Connection Time - identifies the time taken to establish connection with the database
+Uptime - represents the total time the database is active. When uptime resets, it means the database got restarted.
+Open connections - Open connections denotes the active connections to the database. If a connection is not present, then it means availability issues.
+
